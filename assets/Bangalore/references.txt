@@ -1,0 +1,8 @@
+Dataset:
+https://www.kaggle.com/rmenon1998/bangalore-neighborhoods
+
+Articles:
+https://www.bbc.com/news/world-asia-india-38155635
+https://www.indianfolk.com/nama-bengaluru-worlds-traffic-congested-city/
+https://www.tomtom.com/en_gb/traffic-index/bengaluru-traffic/
+https://timesofindia.indiatimes.com/india/traffic-congestion-costs-four-major-indian-cities-rs-1-5-lakh-crore-a-year/articleshow/63918040.cms#:~:text=NEW%20DELHI%3A%20Traffic%20congestion%20during,conducted%20by%20global%20consultancy%20firm.
